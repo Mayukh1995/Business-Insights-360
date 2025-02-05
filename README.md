@@ -7,8 +7,10 @@ Despite its growth, the company faced unexpected losses after opening a store in
 To surpass competitors and enable data-driven decision-making, the company has decided to implement Power BI for analytics. This project aims to provide stakeholders with insights into finance, sales, marketing, and supply chain, ensuring informed decisions at all levels.
 
 I worked on this project by following the Codebasics PowerBi Course,
-Explore the live dashboard : View Here
-Here is my presentation link : 
+
+Explore the live dashboard : [View Here](https://app.powerbi.com/view?r=eyJrIjoiZGE4OWYwMzctMjNjNS00NGMzLWIxODQtZDEwNjVmZmY4YjBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Here is my presentation link : [](https://youtu.be/rXhbL9SJJI0)
 
 # Datasets:
 Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
@@ -42,4 +44,59 @@ If you break down the whole work of a data analyst then you will come up with 4 
 See you can't skip the 3rd step if you want to reach the last step (analysis part), Data modeling is essential because it lays the foundation for reports. All visuals are built upon the data model, and poor modeling can affect report performance.
 
 In this project, we have followed the Snowflake schema data modeling method.
-  
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Data%20Model.PNG)
+# PowerBI Dashboard Overview
+The dashboard comprises six pages-->
+**Home Page: A landing page with buttons to navigate to different pages.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Landing%20page.PNG)
+
+**Finance Page: Focuses on improving financial planning, budgeting processes, and cost control. Includes Profit and Loss statements, Top and Bottom Products and Customers by Net Sales, and more.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Finance%20view.PNG)
+
+**Sales Page: Aims to increase sales revenue and market share. Features Customer performance by Net Sales, Gross Margin, Gross Margin %, and more.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Sales%20view.PNG)
+
+**Marketing Page: Aims to increase brand visibility and customer engagement. Provides Segment Performance by Gross Margin% and Net Profit%, and more.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Marketing%20view.PNG)
+
+**Supply Chain Page: Aims to optimize inventory management and enhance supplier relationships for cost savings. Includes details about Forecast Accuracy, Net error, and more.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Supply%20Chain%20view.PNG)
+
+**Executive Page: Provides an overview of the organization's performance for top management. Includes Net Sales, Gross Margin%, Net Profit%, Revenue Contribution by channel, Top 5 Customer and Product, Sub Region performance, and more.**
+![](https://github.com/Mayukh1995/Business-Insights-360/blob/main/Executive%20view.PNG)
+  # Skills
+  ## Learnt Power BI fundamentals
+  1. creating calcualting columns and DAX measures
+  2. Data Modelling ,data validation techniques and using KPI indicators
+  3. using bookmarks to switch between two visuals and conditional formatting
+  4. page navigation with buttons
+  5. using tooltips to save page area
+  6. Dynamic titles based on the applied filters
+  7. PowerBI services for publishing and sharing reports online
+  8. Auto refresh setup for data through gateway
+  9. Creating date table using M language
+## Tech Stacks
+1. SQL
+2. PowerBI Desktop
+3. DAX language
+4. Dax studio( TO REDUCE FILE SIZE)
+5. Project Charter file
+## Business Related Terms
+1. Gross Margin,Gross Margin %
+2. Gross Sales , Gross Sales %
+3. Pre _ invoice deductions and Post _ invoice deductions
+4. Net sales , Net Invoice Sales
+5. Net Profit and Net Profit %
+6. COGS(cost of goods sold)
+7. YTG (year to go)
+8. YTD ( year to date)
+9. Direct ,retailer, consumer and distributor
+## Soft Skills
+1. Stakeholders mapping analysis
+2. Effective communication with stakeholders feedback and management
+3. Business and domain knowledge in sales,finance,marketing and supply chain.
+# Conclusion :
+This report empowers decision-making based on data, addressing numerous "why" questions across various scenarios. It serves as a tool to extract insights and guide actions, ultimately aiming to enhance AltiQ's profitability through data-driven decisions.
+    
+
+
