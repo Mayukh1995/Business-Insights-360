@@ -10,7 +10,7 @@ I worked on this project by following the Codebasics PowerBi Course,
 
 Explore the live dashboard : [View Here](https://app.powerbi.com/view?r=eyJrIjoiZGE4OWYwMzctMjNjNS00NGMzLWIxODQtZDEwNjVmZmY4YjBjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Here is my presentation link : [](https://youtu.be/rXhbL9SJJI0)
+Here is my presentation link : [click here](https://youtu.be/rXhbL9SJJI0)
 
 # Datasets:
 Before diving into analysis, understanding the datasets is crucial. The datasets consist of two tables:
